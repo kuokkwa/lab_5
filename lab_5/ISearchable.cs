@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace lab_5
 {
-    internal interface ISearchable
+    public interface ISearchable
     {
-        void Search();
+        List<Product> SearchByPriceRange(List<Product> goods, double minPrice, double maxPrice);
+        List<Product> SearchByCategory(List<Product> goods, string category);
     }
 }

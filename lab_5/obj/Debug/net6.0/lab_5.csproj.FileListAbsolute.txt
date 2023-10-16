@@ -1,0 +1,14 @@
+C:\Users\ХХХ\Documents\GitHub\lab_5\lab_5\bin\Debug\net6.0\lab_5.exe
+C:\Users\ХХХ\Documents\GitHub\lab_5\lab_5\bin\Debug\net6.0\lab_5.deps.json
+C:\Users\ХХХ\Documents\GitHub\lab_5\lab_5\bin\Debug\net6.0\lab_5.runtimeconfig.json
+C:\Users\ХХХ\Documents\GitHub\lab_5\lab_5\bin\Debug\net6.0\lab_5.dll
+C:\Users\ХХХ\Documents\GitHub\lab_5\lab_5\bin\Debug\net6.0\lab_5.pdb
+C:\Users\ХХХ\Documents\GitHub\lab_5\lab_5\obj\Debug\net6.0\lab_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ХХХ\Documents\GitHub\lab_5\lab_5\obj\Debug\net6.0\lab_5.AssemblyInfoInputs.cache
+C:\Users\ХХХ\Documents\GitHub\lab_5\lab_5\obj\Debug\net6.0\lab_5.AssemblyInfo.cs
+C:\Users\ХХХ\Documents\GitHub\lab_5\lab_5\obj\Debug\net6.0\lab_5.csproj.CoreCompileInputs.cache
+C:\Users\ХХХ\Documents\GitHub\lab_5\lab_5\obj\Debug\net6.0\lab_5.dll
+C:\Users\ХХХ\Documents\GitHub\lab_5\lab_5\obj\Debug\net6.0\refint\lab_5.dll
+C:\Users\ХХХ\Documents\GitHub\lab_5\lab_5\obj\Debug\net6.0\lab_5.pdb
+C:\Users\ХХХ\Documents\GitHub\lab_5\lab_5\obj\Debug\net6.0\lab_5.genruntimeconfig.cache
+C:\Users\ХХХ\Documents\GitHub\lab_5\lab_5\obj\Debug\net6.0\ref\lab_5.dll

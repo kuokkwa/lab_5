@@ -6,7 +6,19 @@ using System.Threading.Tasks;
 
 namespace lab_5
 {
-    internal class Order
+    public class Order
     {
+        public List<Product> Goods { get; set; }
+        public List<int> Amount { get; set; }
+        public double TotalPrice { get; set; }
+        public bool IsDelivered { get; set; }
+
+        public Order()
+        {
+            Goods = new List<Product>();
+            Amount = new List<int>();
+            TotalPrice = 0;
+            IsDelivered = false;
+        }
     }
 }
